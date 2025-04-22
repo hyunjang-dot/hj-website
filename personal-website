@@ -1,0 +1,9 @@
+<script>start("/Users/hyunjijang/Desktop/Stats Lab/internet-technologies/projects/personal-website/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("profile pic","profile%20pic",1,96,"96 B",1745351275,"4/22/25, 3:47:55 PM");</script>
+<script>addRow("about.html","about.html",0,791,"791 B",1745350813,"4/22/25, 3:40:13 PM");</script>
+<script>addRow("contact.html","contact.html",0,749,"749 B",1745350813,"4/22/25, 3:40:13 PM");</script>
+<script>addRow("demo.gif","demo.gif",0,747471,"730 kB",1744139165,"4/8/25, 3:06:05 PM");</script>
+<script>addRow("External CSS","External%20CSS",0,421,"421 B",1745350813,"4/22/25, 3:40:13 PM");</script>
+<script>addRow("index.html","index.html",0,4303,"4.2 kB",1745353174,"4/22/25, 4:19:34 PM");</script>
+<script>addRow("project.md","project.md",0,4245,"4.1 kB",1744139165,"4/8/25, 3:06:05 PM");</script>
